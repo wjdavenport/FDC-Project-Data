@@ -1,0 +1,4 @@
+*.xml filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.medline filter=lfs diff=lfs merge=lfs -text
