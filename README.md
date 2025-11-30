@@ -1,0 +1,1 @@
+This repository contains single-image (large) dataset records pertaining to a student project for UIUC MCS Online CS598 Foundations of Data Curation (https://github.com/wjdavenport/FDC-Project-Backup).
