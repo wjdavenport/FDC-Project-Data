@@ -2,13 +2,13 @@
   "schemaVersion": "4.4",
   "identifiers": [
     {
-      "identifier": "https://github.com/wjdavenport/FDC-Project-Backup",
+      "identifier": "https://github.com/wjdavenport/FDC-Project-Data",
       "identifierType": "URL"
     }
   ],
   "titles": [
     {
-      "title": "PubMed Consciousness Dataset (1843–2025) – Curated MEDLINE Subset"
+      "title": "PubMed Consciousness Dataset (1843–2025) – Curated MEDLINE Subset - Data Submodule"
     }
   ],
   "creators": [
@@ -68,7 +68,7 @@
     },
     {
       "relationType": "IsSupplementTo",
-      "relatedIdentifier": "https://github.com/wjdavenport/FDC-Project-Data",
+      "relatedIdentifier": "https://github.com/wjdavenport/FDC-Project-Backup",
       "relatedIdentifierType": "URL"
     }
   ]
